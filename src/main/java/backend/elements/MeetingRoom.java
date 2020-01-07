@@ -1,4 +1,7 @@
-package main.backend.elements;
+package backend.elements;
+
+import lombok.Setter;
+import lombok.Getter;
 
 @Getter
 @Setter

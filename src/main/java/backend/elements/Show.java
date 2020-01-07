@@ -1,4 +1,4 @@
-package main.backend.elements;
+package backend.elements;
 
 public class Show {
 

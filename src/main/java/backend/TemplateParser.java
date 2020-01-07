@@ -1,6 +1,4 @@
-package main.backend;
-
-import main.backend.elements.MeetingRoom;
+package backend;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

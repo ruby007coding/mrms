@@ -1,4 +1,4 @@
-package main.backend;
+package backend;
 
 public class MRSMain {
 

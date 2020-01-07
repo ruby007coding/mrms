@@ -1,7 +1,9 @@
-package main.backend.elements;
+package backend.elements;
 
 import java.sql.Time;
 import java.sql.Date;
+import lombok.Setter;
+import lombok.Getter;
 
 @Getter
 @Setter
