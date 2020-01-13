@@ -37,6 +37,7 @@ public class TemplateParser {
                         clientName = data[2];
                     } else if (data[1].equals("Room Info")){
                         roomCounter += 1;
+                        // TODO save room info in extra array
                     }
                 }
                 if (line.startsWith("Meeting Info")){
