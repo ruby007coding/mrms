@@ -1,0 +1,13 @@
+Meta Info;Show Name;Paris AirShow 2019;;;;;;;
+Meta Info;Client Name;RubyClient;;;;;;;
+;;Meeting Room ;Capacity;;;;;;
+Meta Info;Room Info;Room A;6;;;;;;
+Meta Info;Room Info;Room B;10;;;;;;
+Meta Info;Room Info;Room C;4;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;Date;Start Time;End Time;Room;Status;Company;Guest Participants;Own Participants;Total Participants
+Meeting Info;1/1/20;10:00;11:00;Room A;Confirmed;Company A;John Snow, Dragon Queen;Ruby;3
+Meeting Info;1/1/20;11:00;12:00;Room A;Confirmed;Company B;John and Sara Doe;Santa Klause Gäng;6
+Meeting Info;1/1/20;11:45;12:45;Room A;Confirmed;Company C;Ene, Mene, Mu;Und raus bist du;7

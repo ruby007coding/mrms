@@ -3,17 +3,21 @@ package backend.elements;
 import lombok.Setter;
 import lombok.Getter;
 
+import java.util.Collection;
+
 @Getter
 @Setter
 public class MeetingRoom {
 
     protected String meetingRoomName;
-    protected Meeting meeting;
+    protected Collection meetings;
 
     public MeetingRoom(String meetingRoomName){
         this.meetingRoomName = meetingRoomName;
     }
 
-    // TODO: add meeting to room method
+    protected void addMeetingToMeetingRoom(Meeting meeting){
+        this.meetings.add(meeting);
+    }
 
 }
