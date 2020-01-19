@@ -11,5 +11,7 @@ public class MRSMain {
 
         TemplateParser reader = new TemplateParser(input_data_path);
         reader.parse_csv_file();
+
+        System.out.println("end of test :)");
     }
 }
